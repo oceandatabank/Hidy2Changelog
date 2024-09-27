@@ -1,6 +1,18 @@
 Hidy Viewer 2 更新日誌
 ===
+## [更新] 2024-09-27
+### 新增
+- 海表溫度距平值(Sea Surface Temperature Anomalies)
+  >##### ODB資料/海洋熱浪/海表溫度距平值
+  - ODB計算之全球每月海表溫度距平值圖層。
 
+### 更新
+- GEBCO底圖
+  - 因應來源變更更新API，資料為2024版本，包含以下三者：
+     - GEBCO Grid shaded relief
+     - GEBCO Grid colour-shaded for elevation including under ice topography
+     - GEBCO Grid based on measured data only
+    
 ## [更新] 2024-07-19
 ### 新增
 - 座標格式轉換小工具
